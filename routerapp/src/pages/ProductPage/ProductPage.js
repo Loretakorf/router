@@ -3,7 +3,7 @@ import { data } from "../../data/data";
 const ProductPage = () => {
   const { id } = useParams();
 
-  const item = data.find((item) => item.id === Number.parseInt(id));
+const item = data.find((item) => item.id === Number.parseInt(id));
   return (
     <div>
       <h2>{item.label}</h2>
