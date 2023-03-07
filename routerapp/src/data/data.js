@@ -22,5 +22,13 @@ export const data = [
         "price": 59,
         "img": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12962501-1674911470631444.jpg",
         "about": "The legendary fragrance of Huile Prodigieuse® has been captured in a sensual Eau de Parfum to create Prodigieux® le parfum, a feminine fragrance that evokes the sun and warm sand with notes of Orange Blossom, Magnolia and Vanilla."
-      }
+      },
+      {
+        "id": 4,
+        "label": "Sun cream",
+        "category": "Face protection",
+        "price": 10,
+        "img": "https://static.thcdn.com/images/small/original//productimg/960/960/11111915-1065023684500624.jpg",
+        "about": "Moisturises and prevents the appearance of dark spots. Anti-ageing cellular protection. All skin types."
+      },
 ]
